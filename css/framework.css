@@ -2,7 +2,7 @@
 
 } */
 .debug .container {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   background-color: #fff;
 }
 .debug .container [class*="col-"] {
@@ -12,10 +12,15 @@
 /* body {
   background-color: blue;
 } */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 /* Inizio framework */
 .container {
   max-width: 1170px;
-  margin:0 auto;
+  margin: 0 auto;
 }
 .container::after {
   content:"";
@@ -355,7 +360,7 @@ width: calc((100% / 12) * 1);
     width: calc((100% / 12) * 12);
   }
 }
-/* media query offsset */
+/* media query offset */
 @media all and (min-width:992px) {
   .col-offset-lg-1 {
     margin-left: calc((100% / 12) * 1);
