@@ -4,8 +4,23 @@
   line-height: 40px;
 }
 .a-casa {
-  width: 50%
+  width: 30%;
+  margin: auto;
+  display: block;
+
 }
-.oline {
+.online {
   width: 50%;
+  margin: auto;
+  display: block;
+  /* padding-top: 20px; */
+}
+.sottotitolo{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.didascalia {
+  font-size: 16px;
+  text-align: center;
+  padding-bottom: 5px;
 }
