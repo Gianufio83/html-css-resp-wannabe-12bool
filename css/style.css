@@ -17,10 +17,26 @@
 }
 .sottotitolo{
   text-align: center;
-  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 .didascalia {
   font-size: 16px;
   text-align: center;
   padding-bottom: 5px;
+}
+.cerca {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+.contatta {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+.inizia {
+  width: 50%;
+  margin: auto;
+  display: block;
 }
