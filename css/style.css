@@ -26,6 +26,11 @@
   text-align: center;
   padding-bottom: 5px;
 }
+.color {
+  margin:0;
+  padding:0;
+  background-color: rgb(197, 208, 210);
+}
 .cerca {
   width: 50%;
   margin: auto;
