@@ -40,3 +40,12 @@
   margin: auto;
   display: block;
 }
+.soddisfazione,
+.scuola,
+.flessibile {
+  width: 50%;
+  margin: auto;
+  display: block;
+  background-color: blue;
+  border-radius: 260px;
+}
